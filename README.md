@@ -18,4 +18,5 @@ docker-compose down
 ```
 # Nota.
 
-Aplicar el cliente habitual usado en clase
+Aplicar el cliente habitual usado en clase:
+[EdissonM/client](https://github.com/EdissonM/client.git) - Cliente simulador de Sensor Temperatura
