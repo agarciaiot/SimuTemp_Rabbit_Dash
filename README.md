@@ -1,5 +1,5 @@
 # Servidor.
-Demo, Proyecto con analitica descriptiva.
+Demo, Proyecto con analitica descriptiva. Implementación Álvaro garcía
 
 ## Uso, en el powershell
 ### 1. Construir.
@@ -16,3 +16,6 @@ docker-compose up -d
 ```bash
 docker-compose down
 ```
+# Nota.
+
+Aplicar el cliente habitual usado en clase
